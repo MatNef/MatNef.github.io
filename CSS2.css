@@ -1,0 +1,14 @@
+body {
+  background-color: DarkSeaGreen;
+}
+
+h1, h2 {
+  color: midnightblue;
+  font-family: garamond;
+}
+
+p {
+	margin-bottom: 0;
+	margin : 0; 
+	padding-top: 0;
+}

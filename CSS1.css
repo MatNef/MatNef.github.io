@@ -1,0 +1,18 @@
+body {
+  background-color: DarkSeaGreen;
+}
+
+h1, h2 {
+  color: midnightblue;
+  font-family: garamond;
+}
+
+ul {
+  list-style-type: square;
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
